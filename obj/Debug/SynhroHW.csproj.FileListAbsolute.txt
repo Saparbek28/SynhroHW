@@ -1,0 +1,7 @@
+C:\Users\БайназарС.CORP\source\repos\SynhroHW\bin\Debug\SynhroHW.exe.config
+C:\Users\БайназарС.CORP\source\repos\SynhroHW\bin\Debug\SynhroHW.exe
+C:\Users\БайназарС.CORP\source\repos\SynhroHW\bin\Debug\SynhroHW.pdb
+C:\Users\БайназарС.CORP\source\repos\SynhroHW\obj\Debug\SynhroHW.csprojAssemblyReference.cache
+C:\Users\БайназарС.CORP\source\repos\SynhroHW\obj\Debug\SynhroHW.csproj.CoreCompileInputs.cache
+C:\Users\БайназарС.CORP\source\repos\SynhroHW\obj\Debug\SynhroHW.exe
+C:\Users\БайназарС.CORP\source\repos\SynhroHW\obj\Debug\SynhroHW.pdb
